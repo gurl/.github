@@ -1,3 +1,3 @@
-# GURL: Go/Golang Utilities, Resources and Libraries
+# GURL: Go/Golang's very own cURL
 
 Welcome
