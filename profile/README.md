@@ -1,3 +1,3 @@
-# GURL: Go/Golang's very own cURL
+# gURL: Go/Golang's very own cURL
 
 Welcome
